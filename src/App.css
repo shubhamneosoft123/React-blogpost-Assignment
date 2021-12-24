@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+button{
+  background-color: rgb(212, 212, 107);
+  padding: 8px;
+  margin-top: 5px;
+  border-radius: 20px;
+}
+
+body{
+  background-color: azure;
+}
+
+h1{
+  margin-top: 0;
+  color:black;
+  text-align: center;
+  background-color: rgb(116, 116, 121);
+  padding: 20px;
+  color: aliceblue;
+  font-family:sans-serif;
+}
+li{
+  list-style: none;
+  
+}
+h2{
+  font-family: raleway, sans-serif;
+  font-size: 40px;
+}
+h3{
+  font-family: raleway, sans-serif;
+  font-size: 18px;
+}
+span{
+  
+    font-family: raleway, sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+  
+}
+.container{
+  width: 80%;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+  
+}
